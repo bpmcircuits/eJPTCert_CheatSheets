@@ -12,7 +12,7 @@
 </p>
 
 # Links
-### [1. Info Gathering](1.%20Info%20Gathering.md)
-### [2. Footprinting and Scanning](2.%20Footprinting%20and%20Scanning.md)
-### [3. Enumeration](3.%20Enumeration.md)
-### [4. Vulnerability Assessment](4.%20Vulnerability%20Assessment.md)
+### [1. Info Gathering](1.Info%20Gathering.md)
+### [2. Footprinting and Scanning](2.Footprinting%20and%20Scanning.md)
+### [3. Enumeration](3.Enumeration.md)
+### [4. Vulnerability Assessment](4.Vulnerability%20Assessment.md)
