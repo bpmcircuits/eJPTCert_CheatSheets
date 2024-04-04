@@ -16,3 +16,5 @@
 ### [2. Footprinting and Scanning](2.Footprinting%20and%20Scanning.md)
 ### [3. Enumeration](3.Enumeration.md)
 ### [4. Vulnerability Assessment](4.Vulnerability%20Assessment.md)
+### [5. Auditing Fundamentals](#5-auditing-fundamentals)
+### [6. System-Host Based Attacks](#6-system-host-based-attacks)
